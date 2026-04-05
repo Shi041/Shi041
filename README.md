@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 👋 Hi, I'm Haochen Shi
 
 🎓 MSc Energy Systems and Data Analytics @ UCL
-📊 Aspiring Data Analyst | Energy & Sustainability
-💻 Python | SQL | Machine Learning
+📊 Aspiring Data Analyst | Machine Learning
+💻 Python | R | SQL | 
 
 🚀 About Me
 
